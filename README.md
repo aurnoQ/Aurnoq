@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="" width="180" alt="AurnoQ Logo" />
+<img src="AQ logo.png" width="180" alt="AurnoQ Logo" />
 
 <br/><br/>
 
